@@ -63,11 +63,11 @@ gidilir ve son olarak "1" node'undan da küçük olduğu için "1" node'unun sol
           7 (root)
         ⬋  ⬊
        5     8
-      ⬋⬊
-     1   6
+      ⬋⬊     
+     1   6      
     ⬋ ⬊
-   0    3 
-
+   0    3                                                                                       
+                    
 🡆 7.aşama olarak 8. elemana bakarız. 9, roottan büyük olduğu için sağına bakarız. Sağında bulunan "8" node'undan da büyük olduğu için bu node'un sağına yeni
 bir dal olarak yazılır.
 
