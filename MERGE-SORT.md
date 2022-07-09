@@ -22,7 +22,7 @@ Buna göre yukarıda verilen dizinin sort türüne göre aşamaları şu şekild
          ⬊         ⬋           ⬊            ⬋                
            [11,16,21]              [8,12,22]                         
                   ⬊                ⬋           
-                   [8,11,12,16,21,22]                 -----🡺 Birleştirmeli sıralama sonucu dizinin son hali bu şekildedir.
+                   [8,11,12,16,21,22]                 -----🡺 Sıralayarak birleştirme sonucu dizinin son hali bu şekildedir.
                                                                
 
 **SORU 2)** Big-O gösterimini yazınız.
