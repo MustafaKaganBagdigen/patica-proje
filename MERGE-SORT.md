@@ -28,4 +28,4 @@ Buna göre yukarıda verilen dizinin sort türüne göre aşamaları şu şekild
 **SORU 2)** Big-O gösterimini yazınız.
 
 ****⇨**** Her basamağı ayrı işlem düşündüğümüzde ayırma ve birleştirme işleminde toplamda 6 tane (dizi eleman sayısı kadar) işlem yapılmıştır. Bu durumda dizinin
-uzunluğu kadar işlem yapıldığından Big-O gösterimi: O(nlogn) şeklindedir.
+uzunluğu kadar işlem yapıldığından Big-O gösterimi: **O(nlogn)** şeklindedir.
