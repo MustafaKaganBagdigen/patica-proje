@@ -17,6 +17,16 @@ Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanl
 -[2,6,16,18,22,27]
 
 SORU 2) Big-O gösterimini yazınız.
-CEVAP 2)
-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
+⇨ O(n^2)
+
+SORU 3)Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+
+⇨ Avarage case= O(n^2)
+⇨ Worst case= O(n^2)
+⇨ Best case= O(n^2)
+
+SORU 4) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
+⇨ Dizi selection sorta göre sıralandıktan sonra son hali [2,6,16,18,22,27] şeklinde olacaktır. 
+Bu durumda aradığımız 18 sayısı Avarage case kapsamına girmektedir.
