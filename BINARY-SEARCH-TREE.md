@@ -1,8 +1,8 @@
 https://app.patika.dev/mustafakagan
 
-SORU 1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+**SORU 1)** [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+**Örnek:** root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 🡆 Binary Search Tree: elemanların büyüklüğüne göre sırayla sağa veya sola doğru dallanarak uzayan sıralama yöntemidir.
 Root olarak belirlenmiş en tepede bulunan elemandan sonra tek tek dizi sıralamasına göre elemanlar taranır. Sonraki elemanlar roottan küçükse soluna,
@@ -97,15 +97,15 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
 
 🡆 9.aşama olarak 10. elemana bakarız. 2, roottan küçük olduğu için soluna, "5" alt dalından (node) küçük olduğu için onun da soluna,"1" node'undan büyük olduğu sağına, 
 "3" node'undan küçük olduğu için soluna yeni bir dal olarak yazılır. Son node'un da yazılmasıyla işlem tamamlanmış olur.
-
+**
               7 (root)
             ⬋  ⬊
            5     8
           ⬋⬊     ⬊
-         1   6      9              -------------🡺 Tamamlanmış son hali bu şekildedir.
+         1   6      9              -------------🡺 **Tamamlanmış son hali bu şekildedir.**
         ⬋⬊
        0   3           
           ⬋⬊
          2    4        
-
+**
                                         
