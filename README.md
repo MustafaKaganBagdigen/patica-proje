@@ -6,6 +6,7 @@ SELECTION SORT PROJESI
 
 SORU 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
+![image](https://user-images.githubusercontent.com/104433094/178106131-305ba5d4-e0de-4e61-af33-f659b3010405.png)
 Selection sort'a göre: 
 Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanlıyla yer değiştirir. Bu işlem bittikten sonra sırasıyla sonuncu elemana kadar bu işlem devam eder. Bu şekliyle yukarıdaki dizenin aşamaları sırasıyla şu şekilde devam eder:
 -[22,27,16,2,18,6]
