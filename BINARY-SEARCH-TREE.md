@@ -72,38 +72,39 @@ gidilir ve son olarak "1" node'undan da küçük olduğu için "1" node'unun sol
 🡆 7.aşama olarak 8. elemana bakarız. 9, roottan büyük olduğu için sağına bakarız. Sağında bulunan "8" node'undan da büyük olduğu için bu node'un sağına yeni
 bir dal olarak yazılır.
 
-          7 (root)
-        ⬋  ⬊
-       5     8
-      ⬋⬊     ⬊
-     1   6      9
-    ⬋ ⬊
-   0    3 
+
+              7 (root)
+            ⬋  ⬊
+           5     8
+          ⬋⬊     ⬊
+         1   6      9
+        ⬋⬊
+       0   3           
 
 🡆 8.aşama olarak 9. elemana bakarız. 4, roottan küçük olduğu için soluna, "5" alt dalından (node) küçük olduğu için onun da soluna,"1" node'undan büyük olduğu sağına 
 gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olarak yazılır
 
-          7 (root)
-        ⬋  ⬊
-       5     8
-      ⬋
-     1
-    ⬋ ⬊
-   0    3
-         ⬊
-           4         
+              7 (root)
+            ⬋  ⬊
+           5     8
+          ⬋⬊     ⬊
+         1   6      9
+        ⬋⬊
+       0   3           
+            ⬊
+              4         
 
 🡆 9.aşama olarak 10. elemana bakarız. 2, roottan küçük olduğu için soluna, "5" alt dalından (node) küçük olduğu için onun da soluna,"1" node'undan büyük olduğu sağına, 
 "3" node'undan küçük olduğu için soluna yeni bir dal olarak yazılır. Son node'un da yazılmasıyla işlem tamamlanmış olur.
 
-          7 (root)
-        ⬋  ⬊
-       5     8
-      ⬋
-     1                -------------🡺 Tamamlanmış son hali bu şekildedir.
-    ⬋ ⬊
-   0     3
-       ⬋  ⬊
-      2      4     
+              7 (root)
+            ⬋  ⬊
+           5     8
+          ⬋⬊     ⬊
+         1   6      9              -------------🡺 Tamamlanmış son hali bu şekildedir.
+        ⬋⬊
+       0   3           
+          ⬋⬊
+         2    4        
 
                                         
