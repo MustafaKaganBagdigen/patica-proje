@@ -17,7 +17,7 @@ Buna göre yukarıda verilen dizinin sort türüne göre aşamaları şu şekild
        [16,21]      [11]        [8]        [12,22]
         ⬋ ⬊         ↓          ↓           ⬋ ⬊
      [16]  [21]    [11]        [8]        [12]  [22]  -----🡺 En küçük birime kadar ayırma işlemi tamamlanmıştır.
-        ⬊ ⬋         ↓          ↓           ⬊  ⬋             Birleştirme işlemine geçilmiştir.
+        ⬊ ⬋         ↓          ↓           ⬊  ⬋             Sıralayarak birleştirme işlemine geçilmiştir.
       [16,21]      [11]       [8]          [12,22]             
          ⬊         ⬋           ⬊            ⬋                
            [11,16,21]              [8,12,22]                         
