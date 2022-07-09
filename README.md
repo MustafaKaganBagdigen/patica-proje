@@ -23,11 +23,11 @@ Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanl
 
 **SORU 3)** Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-**⇨** Avarage case= 16 ve 18 = O(n^2) 
+**⇨** Avarage case'i =  16 ve 18 = O(n^2) 
 
-**⇨** Worst case= 27 = O(n^2)
+**⇨** Worst case'i = 27 = O(n^2)
 
-**⇨** Best case= 2 = O(n^2)
+**⇨** Best case'i = 2 = O(n^2)
 
 **SORU 4)** Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
