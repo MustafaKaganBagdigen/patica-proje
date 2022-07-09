@@ -102,7 +102,7 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
             ⬋  ⬊
            5     8
           ⬋⬊     ⬊
-         1   6      9              -------------🡺 **Tamamlanmış son hali bu şekildedir.**
+         1   6      9              -------------🡺 ****Tamamlanmış son hali bu şekildedir.****
         ⬋⬊
        0   3           
           ⬋⬊
