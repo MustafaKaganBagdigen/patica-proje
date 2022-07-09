@@ -1,1 +1,4 @@
-# patica-proje
+INSERTION SORT PROJESI
+----------------------
+
+
