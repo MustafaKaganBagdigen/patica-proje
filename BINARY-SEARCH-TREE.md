@@ -87,8 +87,8 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
        5     8
       ⬋
      1
-      ⬊
-        3
+    ⬋ ⬊
+   0    3
          ⬊
            4         
 
@@ -100,9 +100,9 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
        5     8
       ⬋
      1                -------------🡺 Tamamlanmış son hali bu şekildedir.
-      ⬊
-        3
-      ⬋  ⬊
-     2      4     
+    ⬋ ⬊
+   0     3
+       ⬋  ⬊
+      2      4     
 
                                         
