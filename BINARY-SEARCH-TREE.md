@@ -97,7 +97,7 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
 
 🡆 9.aşama olarak 10. elemana bakarız. 2, roottan küçük olduğu için soluna, "5" alt dalından (node) küçük olduğu için onun da soluna,"1" node'undan büyük olduğu sağına, 
 "3" node'undan küçük olduğu için soluna yeni bir dal olarak yazılır. Son node'un da yazılmasıyla işlem tamamlanmış olur.
-**
+
               7 (root)
             ⬋  ⬊
            5     8
@@ -107,5 +107,5 @@ gidilir ve son olarak "3" node'undan büyük olduğu sağına yeni bir dal olara
        0   3           
           ⬋⬊
          2    4        
-**
+
                                         
