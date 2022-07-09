@@ -8,7 +8,7 @@ SELECTION SORT PROJESI
 
 **⇨** Selection sort'a göre:
 
-Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanlıyla yer değiştirir. Bu işlem bittikten sonra sırasıyla sonuncu elemana kadar bu işlem devam eder. Bu şekliyle yukarıdaki dizenin aşamaları sırasıyla şu şekilde devam eder:
+Dizideki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanlıyla yer değiştirir. Bu işlem bittikten sonra sırasıyla sonuncu elemana kadar bu işlem devam eder. Bu şekliyle yukarıdaki dizinin aşamaları sırasıyla şu şekilde devam eder:
 
 **⇨** [22,27,16,2,18,6]
 **⇨** [2,27,16,22,18,6] 
@@ -23,11 +23,11 @@ Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanl
 
 **SORU 3)** Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-**⇨** Avarage case'i =  16 ve 18 = O(n^2) 
+**⇨** Avarage case = O(n^2) 
 
-**⇨** Worst case'i = 27 = O(n^2)
+**⇨** Worst case = O(n^2)
 
-**⇨** Best case'i = 2 = O(n^2)
+**⇨** Best case = O(n^2)
 
 **SORU 4)** Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
@@ -49,7 +49,7 @@ INSERTION SORT PROJESI
 
 **⇨** Insertion sort'a göre:
 
-Dizedeki 2. sıradaki elemandan başlayarak sırasıyla her eleman kendinden önceki elemanları tarar ve kendinden önceki elemandan küçükse aradaki yerini bulur. Bu şekilde sırayla büyük elemanlar sağa doğru kaydırılır. Dikkat edilmesi gereken husus bu yapıldığı esnada her küçük eleman yalnızca kendinden öncekiyle yer değiştirmez kendinden önceki elemanlar arasında sıralı yerini alır ve diğer elemanlar sağa doğru kayarlar. Bu şekilde sıralama devam eder. Buna göre soruda verilen dize için insertion sort aşamaları şu şekildedir:
+Dizideki 2. sıradaki elemandan başlayarak sırasıyla her eleman kendinden önceki elemanları tarar ve kendinden önceki elemandan küçükse aradaki yerini bulur. Bu şekilde sırayla büyük elemanlar sağa doğru kaydırılır. Dikkat edilmesi gereken husus bu yapıldığı esnada her küçük eleman yalnızca kendinden öncekiyle yer değiştirmez kendinden önceki elemanlar arasında sıralı yerini alır ve diğer elemanlar sağa doğru kayarlar. Bu şekilde sıralama devam eder. Buna göre soruda verilen dizi için insertion sort aşamaları şu şekildedir:
 
 **⇨** [22,27,16,2,18,6]
 **⇨** [16,22,27,2,18,6]
@@ -71,7 +71,7 @@ Dizedeki 2. sıradaki elemandan başlayarak sırasıyla her eleman kendinden ön
 
 **SORU 4)** Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-**⇨** Dizi insertion sorta göre sıralandıktan sonra son hali [2,6,16,18,22,27] şeklinde olacaktır. 
+**⇨** Dizi sıralandıktan sonra son hali [2,6,16,18,22,27] şeklinde olacaktır. 
 Bu durumda aradığımız 18 sayısı **avarage case** kapsamına girmektedir.
 
 **EKSTRA SORU )** [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
