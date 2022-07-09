@@ -31,3 +31,5 @@ Dizedeki ilk sıradaki eleman, sırayla tüm dizeyi tarar ve en küçük elemanl
 
 **⇨** Dizi selection sorta göre sıralandıktan sonra son hali [2,6,16,18,22,27] şeklinde olacaktır. 
 Bu durumda aradığımız 18 sayısı **avarage case** kapsamına girmektedir.
+
+**EKSTRA SORU )** [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
